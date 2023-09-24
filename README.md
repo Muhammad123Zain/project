@@ -1,5 +1,3 @@
 # project
-
-
-my first project
+my first project.
 i am using github
